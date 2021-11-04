@@ -1,0 +1,126 @@
+*{
+    /* margin: 0 !important;
+    padding: 0 !important; */
+    font-family: 'Baloo Da 2', cursive !important;
+}
+
+nav{
+    background-color: #943d24 !important;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+/* nav{
+    background-color: #943d24 !important;
+} */
+
+.nav-link{
+    font-weight: 500 !important;
+}
+
+.navbar-brand{
+    color: whitesmoke !important;
+    font-weight: bold !important;
+}
+
+/* navsigation design end */
+ 
+.card{
+    background-color: #e4ddf4 !important;
+}
+
+.card:hover{
+                box-shadow: 3px 3px 5px gray,                -3px -3px 4px gray;
+                transition: 0.4s;
+                -webkit-transition: 0.4s;
+                -moz-transition: 0.4s;
+                -ms-transition: 0.4s;
+                -o-transition: 0.4s;
+}
+
+.list-group-item{
+    background-color: #e4ddf4 !important;
+}
+
+nav{
+    position: fixed !important;
+    z-index: 9999;
+    width: 100% !important;
+}
+
+
+#about{
+    
+    background: url('/images/pexels-pixabay-268533.jpg');
+    padding: 40px 50px !important;
+    height: auto;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.ab-card{
+    
+    box-shadow: none !important;
+}
+
+.ab-card .card-header{
+    border: none;
+    padding-top: 70px !important;
+}
+
+.card{
+    
+    background: linear-gradient(rgba(0,0,0, 0.5),rgba(0,0,0, 0.5)) !important;
+    color: white;
+}
+
+
+
+@media only screen and (max-width: 450px){
+    #about{
+        padding: 40px 0 40px 0 !important;
+    }
+}
+
+/* footer */
+
+.footer{
+    color: white;
+    background: url('/images/Notion-Need-Footer-Background-Design-v1.jpg');
+    background-position: center;
+    background-size: cover;
+    padding: 30px 0 0 0 !important;
+} 
+
+.footer a{
+    text-decoration: none;
+}
+
+.footer ul {
+    list-style-type: none;
+}
+
+.footer ul li a{
+    text-decoration: none;
+    color: white;
+} 
+
+.cl-1-link{
+    line-height: 35px;
+}
+
+.cl-2-link{
+    line-height: 35px;
+}
+
+.cl-3-link{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* footer */

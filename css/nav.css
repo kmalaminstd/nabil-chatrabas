@@ -1,0 +1,33 @@
+nav{
+    background-color: #943d24 !important;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+/* nav{
+    background-color: #943d24 !important;
+} */
+
+.nav-link{
+    font-weight: 500 !important;
+}
+
+.navbar-brand{
+    color: whitesmoke !important;
+    font-weight: bold !important;
+}
+
+/* navsigation design end */
+ 
+
+
+
+
+
+nav{
+    position: fixed !important;
+    z-index: 9999;
+    width: 100% !important;
+}

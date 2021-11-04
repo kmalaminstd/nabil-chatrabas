@@ -1,0 +1,14 @@
+.caro-img{
+    height: 100vh;
+    width: 100%;
+}
+
+.caro-ind{
+    height: 9px !important;
+    width: 9px !important;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
