@@ -53,7 +53,7 @@ nav{
 
 #about{
     
-    background: url('./images/pexels-pixabay-268533.jpg');
+    background: url("./images/pexels-pixabay-268533.jpg");
     padding: 40px 50px !important;
     height: auto;
     width: 100%;
